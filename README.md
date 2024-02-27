@@ -17,3 +17,7 @@ How to Play:
 4. The game will progressively increase in difficulty as you successfully replicate each sequence.
 5. If you make a mistake, the game will provide feedback, and you can attempt the sequence again.
 6. The game ends if you fail to replicate the given pattern. 
+
+
+Screenshot: 
+![Simon - Google Chrome 27-02-2024 14_02_19](https://github.com/beingbrute/game_simon/assets/76839241/6c2d2592-c42b-426f-9ef4-02ad13ba4659)
